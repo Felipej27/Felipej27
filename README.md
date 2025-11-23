@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Felipej27
+# 👋 Hi there
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Felipej27/Felipej27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Felipej27/Felipej27)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Felipej27/MiPrimerRepo)
